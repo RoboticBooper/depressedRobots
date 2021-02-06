@@ -4,6 +4,11 @@ body {
   margin: 0px;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
 h1 {
   padding: 50px;
   color: #ff9e00;
@@ -13,19 +18,17 @@ h1 {
 
 .nav-wrapper {
   display: flex;
-  justify-content: space-between;
-  padding: 5px;
+  justify-content: center;
+  padding: 10px;
   }
 
-.center {
+.left-side {
   display: flex;
 }
 
 .nav-wrapper > .left-side > div {
-  margin: 100px;
-  margin-top: 1px;
-  margin-bottom: 50px;
-  font-size: 2em;
+  margin-right: 20px;
+  font-size: 0.9em;
   text-transform: uppercase;
   font-family: UFONEST
 }
@@ -55,5 +58,6 @@ h1 {
 h1{
   font-family: UFONEST;
   font-size: 120px;
+}
 
 /* About page styles */
