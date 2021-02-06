@@ -2,10 +2,15 @@ body {
   margin: 0px;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
 .nav-wrapper {
   display: flex;
   justify-content: center;
-  padding: 40px;
+  padding: 30px;
   }
 
 .left-side {
