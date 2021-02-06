@@ -50,14 +50,14 @@ h1 {
 }
 
 @@font-face {
-  font-family: 'UFO';
-  src: url(Fonts\UFO NEST - Regluar.ttf);
+  font-family: 'ufo';
+  src: url(Fonts/UFO NEST-Regluar.ttf);
   font-style: normal;
   font-weight: 100;
 }
 
 p {
-  font-family: UFO;
+  font-family: ufo;
   font-weight: 100;
   color: #fabb77;
 }
