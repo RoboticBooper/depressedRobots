@@ -35,3 +35,17 @@ h1 {
   padding: 50px;
   color: #ff9e00;
 }
+
+@@font-face {
+  font-family: "ufo_nest";
+  src: url("https://depressedrobots.tk/css/fonts/ufo_nest.eot");
+  src: url("https://depressedrobots.tk/css/fonts/ufo_nest.woff") format("woff"),
+  url("https://depressedrobots.tk/css/fonts/ufo_nest.otf") format("opentype"),
+  url("https://depressedrobots.tk/css/fonts/ufo_nest.svg#filename") format("svg");
+}
+
+h1 {
+  font-family: 'ufo_nest'
+  font-weight:normal;
+  font-style:normal;
+}
