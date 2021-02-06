@@ -62,4 +62,24 @@ h1{
   font-size: 120px;
 }
 
+p {
+  margin-top: 33px;
+  margin-left: 10px;
+}
+
+p {
+  padding-top: 33px;
+  padding-left: 10px;
+}
+
+p {
+  transform: translate(10px, 33px);
+}
+
+p {
+  position: relative;
+  top: 33px;
+  left: 10px;
+}
+
 /* About page styles */
