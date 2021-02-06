@@ -16,6 +16,6 @@
 
 .nav-link-wrapper {
   height: 22px;
-  border-top: 1px solid;
-
+  border-top: 1px solid transparent;
+  transition: border-top 0.5s;
 }
