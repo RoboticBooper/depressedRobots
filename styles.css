@@ -1,3 +1,5 @@
+/* Master styles */
+
 body {
   margin: 0px;
 }
@@ -6,6 +8,13 @@ body {
   display: grid;
   grid-template-columns: 1fr;
 }
+
+h1 {
+  padding: 50px;
+  color: #ff9e00;
+}
+
+/* Navbar styles please kill me */
 
 .nav-wrapper {
   display: flex;
@@ -35,12 +44,9 @@ body {
   transition: color 0.5;
 }
 
-.nav-link-wrapper:hover {
+.nav-link-wrapper a:hover {
   border-bottom: 1px solid #ff9e00;
   color: #ff9e00;
 }
 
-h1 {
-  padding: 50px;
-  color: #ff9e00;
-}
+/* Portfolio styles */
