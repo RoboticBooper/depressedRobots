@@ -21,7 +21,7 @@
 }
 
 .nav-link-wrapper a {
-  color: #FFB260
-  text decoration: none;
+  color: #8a8a8a;
+  text-decoration: none;
   transition: color 0.5;
 }
