@@ -20,7 +20,7 @@ h1 {
 .nav-wrapper {
   display: flex;
   justify-content: center;
-  padding: 50px;
+  padding: 10px;
   }
 
 .left-side {
