@@ -10,12 +10,14 @@ body {
 }
 
 h1 {
-  padding: 5px;
+  padding: 10px;
   color: #ffC059;
   text-align: center;
   border-style: solid;
   border-width: 2px
   border-color: #ffC059;
+  font-family: UFONEST;
+  font-size: 120px;
 }
 
 /* Navbar styles please kill me */
@@ -55,14 +57,10 @@ h1 {
   color: #ff9e00;
 }
 
+/*fonts ugh*/
+
 @font-face {
   font-family: 'UFONEST';
   src: url(fonts/UFONEST.ttf);
-}
 
-h1{
-  font-family: UFONEST;
-  font-size: 120px;
-}
-
-/* About page styles */
+/*Animations*/
