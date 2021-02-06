@@ -49,4 +49,15 @@ h1 {
   color: #ff9e00;
 }
 
-/* Portfolio styles */
+@@font-face {
+  font-family: 'UFO';
+  src: url(Fonts\UFO NEST - Regluar.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+
+p {
+  font-family: UFO;
+  font-weight: 100;  
+}
+/* About page styles */
