@@ -50,13 +50,12 @@ h1 {
 }
 
 @font-face {
-  font-family: 'ufo';
-  src: url(fonts/UFO NEST - Regluar.ttf);
-  font-style: normal;
-  font-weight: 100;
+  font-family: 'UFONEST';
+  src: url(fonts/UFONEST.ttf);
 }
 
 h1{
-  font-family: ufo;
+  font-family: UFONEST;
 }
+
 /* About page styles */
