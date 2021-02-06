@@ -3,3 +3,7 @@
   justify-content: space-between;
   padding: 40px;
   }
+
+.left-side {
+  display: flex;
+}
