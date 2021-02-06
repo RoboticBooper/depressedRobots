@@ -29,11 +29,10 @@ h1 {
 
 .nav-wrapper > .left-side > div {
   margin: 90px;
+  margin-top: -10px;
   font-size: 2em;
   text-transform: uppercase;
   font-family: UFONEST
-  position: relative;
-  bottom: 20px;
 }
 
 .nav-link-wrapper {
