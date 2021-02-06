@@ -20,7 +20,7 @@ h1 {
 .nav-wrapper {
   display: flex;
   justify-content: center;
-  padding: 10px;
+  padding: 50px;
   }
 
 .left-side {
@@ -29,7 +29,7 @@ h1 {
 
 .nav-wrapper > .left-side > div {
   margin-right: 20px;
-  font-size: 0.9em;
+  font-size: 2em;
   text-transform: uppercase;
   font-family: UFONEST
 }
