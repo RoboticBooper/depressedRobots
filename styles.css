@@ -25,3 +25,8 @@
   text-decoration: none;
   transition: color 0.5;
 }
+
+.nav-link-wrapper:hover {
+  border-bottom: 1px solid #ff9e00;
+  color: #ff9e00;
+}
