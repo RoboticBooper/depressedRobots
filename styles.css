@@ -17,11 +17,11 @@ h1 {
   padding: 5px;
   }
 
-.center {
+.left-side {
   display: flex;
 }
 
-.nav-wrapper > .center > div {
+.nav-wrapper > .left-side > div {
   margin: 100px;
   margin-top: 1px;
   margin-bottom: 50px;
