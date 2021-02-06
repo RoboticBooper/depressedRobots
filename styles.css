@@ -1,7 +1,12 @@
 /* Master styles */
 
 body {
-  margin: 5px;
+  margin: 0px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 h1 {
@@ -17,11 +22,11 @@ h1 {
   padding: 5px;
   }
 
-.center {
+.left-side {
   display: flex;
 }
 
-.nav-wrapper > .center > div {
+.nav-wrapper > .left-side > div {
   margin: 100px;
   margin-top: 1px;
   margin-bottom: 50px;
@@ -61,7 +66,7 @@ p {
   margin-top: 33px;
   margin-left: 10px;
 }
-
+ 
 p {
   padding-top: 33px;
   padding-left: 10px;
