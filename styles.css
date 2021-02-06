@@ -39,10 +39,7 @@ h1 {
   font-style:normal;
 }
 
-@@font-face {
-  font-family: "ufo_nest";
-  src: url("https://depressedrobots.tk/css/fonts/ufo_nest.eot");
-  src: url("https://depressedrobots.tk/css/fonts/ufo_nest.woff") format("woff"),
-  url("https://depressedrobots.tk/css/fonts/ufo_nest.otf") format("opentype"),
-  url("https://depressedrobots.tk/css/fonts/ufo_nest.svg#filename") format("svg");
-}
+@font-face {
+    font-family: 'ufo_nestregular';
+    src: url('ufo_nest_-_regluar-webfont.eot');
+    }
