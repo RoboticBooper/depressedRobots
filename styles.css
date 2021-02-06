@@ -14,7 +14,7 @@ h1 {
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
-  padding: 5px;
+  padding: 20px;
   }
 
 .left-side {
