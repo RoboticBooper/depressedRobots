@@ -4,11 +4,12 @@ body {
   margin: 0px;
   padding: 0px;
   height: 100vh;
-  overflow: auto;
+  overflow:
 }
 #particles-js
 {
   height: 100%
+  color: #ffC059
 }
 .container {
   display: grid;
