@@ -27,10 +27,10 @@ var pJS = function(tag_id, params){
         }
       },
       color: {
-        value: '#fff'
+        value: '#fabb77'
       },
       shape: {
-        type: 'circle',
+        type: 'star',
         stroke: {
           width: 0,
           color: '#fabb77'
@@ -67,7 +67,7 @@ var pJS = function(tag_id, params){
       line_linked: {
         enable: true,
         distance: 100,
-        color: '#fff',
+        color: '#fabb77',
         opacity: 1,
         width: 1
       },
@@ -75,12 +75,12 @@ var pJS = function(tag_id, params){
         enable: true,
         speed: 2,
         direction: 'none',
-        random: false,
+        random: true,
         straight: false,
         out_mode: 'out',
-        bounce: false,
+        bounce: true,
         attract: {
-          enable: false,
+          enable: true,
           rotateX: 3000,
           rotateY: 3000
         }
@@ -102,7 +102,7 @@ var pJS = function(tag_id, params){
       },
       modes: {
         grab:{
-          distance: 100,
+          distance: 110,
           line_linked:{
             opacity: 1
           }
